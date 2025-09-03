@@ -21,6 +21,26 @@ Backend (Python for analysis, SQL for data extraction)
 - Frontend: Not applicable  
 - Backend: Jupyter Notebook / Python Script  
 - Database: MySQL
+## 📁 Directory Structure
+retail-sales-analytics/
+├─ README.md
+├─ EDA: Retail Sales Analytics.ipynb   # interactive EDA notebook
+├─ analysis.sql                        # business queries (trends, top products, etc.)
+├─ ddl.sql                             # SQLite schema + helpful views
+├─ generate_data.py                    # creates synthetic dataset (~100k rows) → data/raw/transactions.csv
+├─ load_to_sql.py                      # builds database/sales.db and loads the CSV
+├─ visualize.py                        # saves charts to reports/figures/
+├─ data/
+│  ├─ raw/                             # generated CSV lives here
+│  └─ processed/                       # (optional) cleaned outputs
+├─ database/
+│  └─ sales.db                         # created by load_to_sql.py
+└─ reports/
+   └─ figures/
+      ├─ monthly_revenue.png
+      ├─ revenue_by_category.png
+      ├─ top_city_channel.png
+      └─ margin_distribution.png
 
 
 
