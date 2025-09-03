@@ -22,7 +22,6 @@ Backend (Python for analysis, SQL for data extraction)
 - Backend: Jupyter Notebook / Python Script  
 - Database: MySQL
 
-## 📁 Directory Structure
 
 
 **About:** End-to-end workflow to **generate realistic sales data → clean & explore (EDA) → load to SQL → answer business questions → visualize KPIs**.  
