@@ -43,7 +43,7 @@ retail-sales-analytics/
         ├── top_city_channel.png
         └── margin_distribution.png
 
-
+```
 
 **About:** End-to-end workflow to **generate realistic sales data → clean & explore (EDA) → load to SQL → answer business questions → visualize KPIs**.  
 Built to mimic a real analytics pipeline that recruiters can evaluate quickly.
