@@ -21,7 +21,6 @@ Backend (Python for analysis, SQL for data extraction)
 - Frontend: Not applicable  
 - Backend: Jupyter Notebook / Python Script  
 - Database: MySQL
-## 📁 Directory Structure
 ### 📁 Directory Structure
 ```text
 retail-sales-analytics/
