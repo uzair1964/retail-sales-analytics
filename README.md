@@ -8,8 +8,22 @@
   <img src="https://img.shields.io/badge/SQLite-%20-black?logo=sqlite&labelColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
+# 📈 Price Trend Analysis (Retail)
 
-# Retail Sales Analytics
+## 🧭 Introduction
+This Python + MySQL project analyzes **retail price trends** and profitability. It uses **Pandas** for cleaning/EDA, **SQL** for aggregations, and **Matplotlib/Seaborn** for visuals.  
+You’ll explore how **discounts, seasonality**, and **product categories** affect **final prices** and **margins**, helping stakeholders make **data-driven pricing decisions**.
+
+## 🛠️ Project Type
+Backend (Python for analysis, SQL for data extraction)
+
+## 🚀 Deployed App
+- Frontend: Not applicable  
+- Backend: Jupyter Notebook / Python Script  
+- Database: MySQL
+
+## 📁 Directory Structure
+
 
 **About:** End-to-end workflow to **generate realistic sales data → clean & explore (EDA) → load to SQL → answer business questions → visualize KPIs**.  
 Built to mimic a real analytics pipeline that recruiters can evaluate quickly.
