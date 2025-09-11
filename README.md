@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/NumPy-%20-black?logo=numpy&labelColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Matplotlib-%20-black?logo=matplotlib&labelColor=white" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-%20-black" alt="Seaborn">
-  <img src="https://img.shields.io/badge/SQLite-%20-black?logo=sqlite&labelColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/MYSQL-%20-black?logo=sqlite&labelColor=white" alt="MYSQL">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 # 📈 Price Trend Analysis (Retail)
